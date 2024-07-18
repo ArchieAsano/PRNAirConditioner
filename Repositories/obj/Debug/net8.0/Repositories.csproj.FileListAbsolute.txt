@@ -1,0 +1,15 @@
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\bin\Debug\net8.0\Models.dll
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\bin\Debug\net8.0\Models.pdb
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\SE182972\Summer2024\PE_PRN212_SU24TrialTest_ThuAn\Repositories\obj\Debug\net8.0\ref\Repositories.dll
